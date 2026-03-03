@@ -2,16 +2,16 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: <a href='#'>Affiliations</a>. I am a MSc student in **Artificial Intelligence Applications** at the **University of Macau**, and a member of the **State Key Laboratory of Internet of Things for Smart City (SKL-IoTSC)**. My research focuses on the intersection of **natural language processing (NLP)** application and **diffusion model theory**.
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+more_info: >
+    <p>📞 +86 13889477293</p>
+    <p>📞 +853 66535984</p>
+    <p>✉️ mc36594@um.edu.mo</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
