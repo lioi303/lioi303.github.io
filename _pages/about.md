@@ -3,10 +3,9 @@ layout: about
 title: about
 permalink: /
 
-subtitle: <a href='#'>Affiliations</a><br>
-  University of Macau, Macau, China<br>
-  the State Key Laboratory of Internet of Things for Smart City (SKL-IoTSC)<br>
-  North China Electric Power University
+subtitle: <a href='#'>Affiliations：</a>University of Macau, Macau, China<br>
+                                        the State Key Laboratory of Internet of Things for Smart City (SKL-IoTSC)<br>
+                                        North China Electric Power University
 
 profile:
   align: right
