@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: <a href='#'>Affiliations</a>. MSc student in Artificial Intelligence Applications at the University of Macau | Member of the State Key Laboratory of Internet of Things for Smart City (SKL-IoTSC)
 
 profile:
   align: right
