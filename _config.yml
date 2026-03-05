@@ -52,12 +52,12 @@ external_services:
 # Layout
 # -----------------------------------------------------------------------------
 
-navbar_fixed: true
+navbar_fixed: true #true：向下滚动页面时，顶部的导航菜单始终可见
 footer_fixed: true
 search_enabled: true
-socials_in_search: true
-posts_in_search: true
-bib_search: true
+#socials_in_search: true
+#posts_in_search: true
+#bib_search: true
 
 # Dimensions
 max_width: 930px
