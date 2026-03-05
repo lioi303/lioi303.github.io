@@ -77,16 +77,11 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
+            },},{id: "news-paper-smartdiffusion-accelerating-diffusion-llms-via-token-level-freezing-submitted-to-acl-2026-ccf-a-conference",
+          title: 'Paper SmartDiffusion: Accelerating Diffusion LLMs via Token-Level Freezing submitted to ACL 2026 (CCF-A...',
           description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
-          description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+          section: "News",},{id: "news-paper-condition-errors-refinement-in-autoregressive-image-generation-accepted-to-iclr-2025-ccf-a-conference",
+          title: 'Paper Condition Errors Refinement in Autoregressive Image Generation accepted to ICLR 2025 (CCF-A...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
