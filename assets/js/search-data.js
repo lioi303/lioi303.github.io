@@ -77,7 +77,13 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-paper-smartdiffusion-accelerating-diffusion-llms-via-token-level-freezing-submitted-to-acl-2026-ccf-a-conference",
+            },},{id: "news-awarded-national-mathematical-modeling-competition-hebei-first-prize",
+          title: 'Awarded National Mathematical Modeling Competition Hebei First Prize 🏆',
+          description: "",
+          section: "News",},{id: "news-awarded-robocup-robot-world-cup-china-third-prize",
+          title: 'Awarded RoboCup Robot World Cup China Third Prize🇨🇳',
+          description: "",
+          section: "News",},{id: "news-paper-smartdiffusion-accelerating-diffusion-llms-via-token-level-freezing-submitted-to-acl-2026-ccf-a-conference",
           title: 'Paper SmartDiffusion: Accelerating Diffusion LLMs via Token-Level Freezing submitted to ACL 2026 (CCF-A...',
           description: "",
           section: "News",},{id: "news-paper-condition-errors-refinement-in-autoregressive-image-generation-accepted-to-iclr-2025-ccf-a-conference",
