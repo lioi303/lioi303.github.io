@@ -39,4 +39,4 @@ Currently, I am working on **SmartDiffusion: Accelerating Diffusion LLMs via Tok
 Prior to joining University of Macau, I completed my Bachelor's degree in Information and Computing Science at North China Electric Power University, where I received multiple scholarships and awards including the RoboCup Robot World Cup China Third Prize and the National Mathematical Modeling Competition Hebei First Prize.
 
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+<!-- Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them. -->
