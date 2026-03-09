@@ -41,7 +41,9 @@ I am a MSc student in **Artificial Intelligence Applications** at the **Universi
 
 My recent work includes **Condition Errors Refinement in Autoregressive Image Generation** (ICLR 2025), where I theoretically compared conditional diffusion models and autoregressive diffusion models under diffusion loss, proving that patch denoising optimization effectively mitigates conditional errors. I also introduced a novel condition refinement method based on Optimal Transport (OT) theory.
 
-Currently, I am working on **SmartDiffusion: Accelerating Diffusion LLMs via Token-Level Freezing** (submitted to ACL 2026), proposing a training-free acceleration framework that leverages token-level freezing strategies to address time-step redundancy in diffusion decoding, achieving significant inference acceleration while maintaining generation quality.
+<!-- Currently, I am working on **SmartDiffusion: Accelerating Diffusion LLMs via Token-Level Freezing** (submitted to ACL 2026), proposing a training-free acceleration framework that leverages token-level freezing strategies to address time-step redundancy in diffusion decoding, achieving significant inference acceleration while maintaining generation quality. -->
+
+Currently, I am working to propose a training-free acceleration framework that leverages token-level freezing strategies to address time-step redundancy in diffusion decoding, achieving significant inference acceleration while maintaining generation quality.
 
 Prior to joining University of Macau, I completed my Bachelor's degree in Information and Computing Science at North China Electric Power University, where I received multiple scholarships and awards including the RoboCup Robot World Cup China Third Prize and the National Mathematical Modeling Competition, Provincial First Prize.
 
