@@ -1,36 +1,36 @@
-<!-- ---
+---
 layout: post
-title: a post with formatting and links
-date: 2015-03-15 16:40:16
-description: march & april, looking forward to summer
-tags: formatting links
-categories: sample-posts
+title: 一篇包含格式和链接的文章
+date: 2025-03-15 16:40:16
+description: 三月与四月，期待夏日来临
+tags: 
+categories: 示例文章
 ---
 
-Jean shorts raw denim Vice normcore, art party High Life PBR skateboard stumptown vinyl kitsch. Four loko meh 8-bit, tousled banh mi tilde forage Schlitz dreamcatcher twee 3 wolf moon. Chambray asymmetrical paleo salvia, sartorial umami four loko master cleanse drinking vinegar brunch. [Pinterest](https://www.pinterest.com) DIY authentic Schlitz, hoodie Intelligentsia butcher trust fund brunch shabby chic Kickstarter forage flexitarian. Direct trade <a href="https://en.wikipedia.org/wiki/Cold-pressed_juice">cold-pressed</a> meggings stumptown plaid, pop-up taxidermy. Hoodie XOXO fingerstache scenester Echo Park. Plaid ugh Wes Anderson, freegan pug selvage fanny pack leggings pickled food truck DIY irony Banksy.
+斜纹棉布短裤搭配原色牛仔，Vice 风的常态美学，艺术派对、高品质啤酒、滑板、波特兰街区、黑胶唱片，各种小众格调。四洛克酒配8位像素风，凌乱的越南三明治配波浪符号图案，随性的施利茨啤酒捕梦网，矫情的三狼月图腾。青年布面料的不对称剪裁，原始风的鼠尾草装饰，考究的鲜味四洛克酒，清肠排毒饮品配早午餐用的饮用醋。[Pinterest](https://www.pinterest.com) 原创自制的正宗施利茨啤酒，连帽衫配知识分子风，屠夫风信托基金早午餐，复古风众筹项目，杂食主义。直接贸易的 <a href="https://en.wikipedia.org/wiki/Cold-pressed_juice">冷压果汁</a> 配紧身裤，波特兰街区风格的格纹衫，快闪店的动物标本装饰。连帽衫配亲亲抱抱表情，手指上的小胡子图案，潮人聚集地回声公园。格纹衫配韦斯·安德森风，自由素食主义哈巴狗， selvage 边牛仔配腰包、紧身裤，复古餐车小吃，自制反讽街头艺术。
 
-#### Hipster list
+#### 潮人清单
 
-- brunch
-- fixie
-- raybans
-- messenger bag
+- 早午餐
+- 死飞自行车
+- 雷朋墨镜
+- 邮差包
 
-#### Check List
+#### 待办清单
 
-- [x] Brush Teeth
-- [ ] Put on socks
-  - [x] Put on left sock
-  - [ ] Put on right sock
-- [x] Go to school
+- [x] 刷牙
+- [ ] 穿袜子
+  - [x] 穿上左脚袜子
+  - [ ] 穿上右脚袜子
+- [x] 去上学
 
-Hoodie Thundercats retro, tote bag 8-bit Godard craft beer gastropub. Truffaut Tumblr taxidermy, raw denim Kickstarter sartorial dreamcatcher. Quinoa chambray slow-carb salvia readymade, bicycle rights 90's yr typewriter selfies letterpress cardigan vegan.
+复古霹雳猫连帽衫，手提包配8位像素风戈达尔风格精酿啤酒美食酒吧。特吕弗风格汤博乐动物标本，原色牛仔众筹项目考究捕梦网。藜麦青年布慢碳鼠尾草成衣，90年代自行车权复古打字机自拍活版印刷开衫素食风。
 
 <hr>
 
-Pug heirloom High Life vinyl swag, single-origin coffee four dollar toast taxidermy reprehenderit fap distillery master cleanse locavore. Est anim sapiente leggings Brooklyn ea. Thundercats locavore excepteur veniam eiusmod. Raw denim Truffaut Schlitz, migas sapiente Portland VHS twee Bushwick Marfa typewriter retro id keytar.
+哈巴狗传家宝级高品质黑胶唱片潮品，单一产地咖啡四美元吐司动物标本，抵拒消费主义酒厂清肠排毒本地食材主义。随性的布鲁克林紧身裤充满智慧，霹雳猫本地食材主义免责声明，享受当下。原色牛仔特吕弗施利茨啤酒，墨西哥早餐充满智慧的波特兰复古家用录像带矫情风，布什维克马尔法复古打字机复古电子琴。
 
-> We do not grow absolutely, chronologically. We grow sometimes in one dimension, and not in another, unevenly. We grow partially. We are relative. We are mature in one realm, childish in another.
-> —Anais Nin
+> 我们的成长并非绝对的、按时间顺序的。我们有时在某个维度成长，却在另一个维度停滞，发展并不均衡。我们只是部分成长。我们是相对的存在。我们在某个领域成熟，在另一个领域却依然幼稚。
+> ——阿娜伊斯·宁（Anais Nin）
 
-Fap aliqua qui, scenester pug Echo Park polaroid irony shabby chic ex cardigan church-key Odd Future accusamus. Blog stumptown sartorial squid, gastropub duis aesthetic Truffaut vero. Pinterest tilde twee, odio mumblecore jean shorts lumbersexual. -->
+随性的哈巴狗回声公园拍立得反讽复古风开衫，教堂钥匙形瓶起子怪咖未来风指责。波特兰潮人鱿鱼美食酒吧，审美特吕弗真实。拼趣波浪符号矫情风，讨厌含糊不清的斜纹棉布短裤伐木工人风。 
