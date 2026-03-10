@@ -6,4 +6,4 @@ related_posts: false
 ---
 
 
-Paper about a training-free acceleration framework submitted to ACL 2026 (CCF-A conference)! :sparkles: :smile:-->
+Paper about a training-free acceleration diffusion framework submitted to ACL 2026 (CCF-A conference)! :sparkles: :smile:
