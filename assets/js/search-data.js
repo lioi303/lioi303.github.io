@@ -32,7 +32,7 @@ ninja.data = [{
           },
         },{id: "nav-cv",
           title: "CV",
-          description: "This is a description of the page. You can modify it in &#39;_pages/cv.md&#39;. You can also change or remove the top pdf download button.",
+          description: "",
           section: "Navigation",
           handler: () => {
             window.location.href = "/cv/";
@@ -49,8 +49,8 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-awarded-national-mathematical-modeling-competition-hebei-first-prize",
-          title: 'Awarded National Mathematical Modeling Competition Hebei First Prize 🏆',
+            },},{id: "news-awarded-national-mathematical-modeling-competition-provincial-first-prize",
+          title: 'Awarded National Mathematical Modeling Competition Provincial First Prize 🏆',
           description: "",
           section: "News",},{id: "news-awarded-robocup-robot-world-cup-china-third-prize",
           title: 'Awarded RoboCup Robot World Cup China Third Prize🇨🇳',
