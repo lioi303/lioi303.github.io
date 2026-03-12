@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Awarded **National Mathematical Modeling Competition Hebei First Prize** 🏆
+Awarded **National Mathematical Modeling Competition Provincial First Prize** 🏆
